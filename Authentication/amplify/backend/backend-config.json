@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "jerrylab1df0e585d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
