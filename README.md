@@ -5,10 +5,3 @@
 - Android Studio installed
 - AWS CLI installed
 
-## System Architecture
-
-working...
-
-## Step-by-step
-
-working...
